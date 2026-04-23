@@ -59,15 +59,12 @@
             <projectDesc>
                 <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
             </projectDesc>
-            <schemaRef type="guide" key="EGDv01"
-                url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/>
             <listPrefixDef>
-                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)"
-                    replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
                     <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
                 </prefixDef>
-                <prefixDef ident="part" matchPattern="([a-z]+)"
-                    replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
                     <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
                 </prefixDef>
             </listPrefixDef>
@@ -89,7 +86,7 @@
                 <pb n="1r"/>
                 
                 <ab xml:lang="san-Latn" rendition="class:brāhmī maturity:83215"><!--check @rendition-->
-                    <g type="spiral"/> svasti
+                    <g ref="sym:spiral" type="symbol">*</g> svasti
                 </ab>
                 
                 <p xml:lang="san-Latn" rendition="class:brāhmī maturity:83215"><!--check @rendition-->
@@ -136,7 +133,7 @@
                         </item>
                         <item>	
                             mūḍaṇṇā sīme Iḍeveṭṭadā vaḍaga
-                            <lb n="2v4=14" break="no"/>ṇṇā niriraga <g type="spiral"/>
+                            <lb n="2v4=14" break="no"/>ṇṇā niriraga <g ref="sym:spiral" type="symbol">*</g>
                         </item>
                     </list>
                 </p>
@@ -144,7 +141,7 @@
                     koḷaguppe peḻjavasi Ardhaṃ kānasoppin ardhaṃ
                     <lb n="2v5=15"/>vāral ardhaṃ karsa-piṇḍaṃ nūṟ-irppatt-e<choice><sic>nt</sic><corr>ṇṭ</corr></choice>u koṃbe gāroḍaṃ pa
                     <pb n="3r"/>
-                    <lb n="3r1=16" break="no"/>ḍeya<choice><orig>ṃm</orig><reg>ṃ</reg></choice> eṇṭu mūḍe jamali ondu <g type="spiral"/>
+                    <lb n="3r1=16" break="no"/>ḍeya<choice><orig>ṃm</orig><reg>ṃ</reg></choice> eṇṭu mūḍe jamali ondu <g ref="sym:spiral" type="symbol">*</g>
                 </p>
                 <p>				
                     Idu gōp<choice><sic>a</sic><corr>ā</corr></choice>la-dēvarā da
