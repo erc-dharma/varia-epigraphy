@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_Schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/schema/latest/DHARMA_SQF.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hansot Plates of the Chahamana Bhartrivaddha, Samvat 813 (probably 756 A.D.) </title>
+                <!--Change the title of the file, e.g. Raktamālā grant of the time of Budhagupta, year 159-->
+                <!-- Add your name in the respStmt matching your involvement -->
+                <respStmt>
+                    <resp>EpiDoc Encoding</resp>
+                    <!-- Work done in the file, e.g. editor ...-->
+                    <persName ref="part:amwb"><!-- Update the id -->
+                        <forename>Amandine</forename><!-- Fill in your  names — it is possible to use only <name> instead of <foreame> and <surname> -->
+                        <surname>Wattelier-Bricout</surname>
+                    </persName>
+                </respStmt>
+                <respStmt>
+                    <resp>intellectual authorship of edition</resp>
+                    <!-- This may be the same as the creator of the file -->
+                    <persName ref="part:amwb"><!-- Update the id -->
+                        <forename>Amandine</forename><!-- Fill in the name of the responsible scholar — it possible to use only <name> instead of <foreame> and <surname> -->
+                        <surname>Wattelier-Bricout</surname>
+                    </persName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>DHARMA</authority>
+                <pubPlace>Aubervilliers</pubPlace>
+                <idno type="filename">DHARMA_INSVaria90010</idno>
+                <!-- Replace by filename, e.g. Pallava00001 -->
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                            Licence. To view a copy of the licence, visit
+                            https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                            Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                            California, 94041, USA.</p>
+                        <p>Copyright (c) 2019-2025 by Amandine
+                            Wattelier-Bricout.</p><!-- replace year and name, use format "Forename1 Surname1 & Forename2 Surname2" or "Forename1 Surname1, Forename2 Surname2 & Forename3 Surname3"  if necessary — the copyright is that of the encoder(s) -->
+                    </licence>
+                </availability>
+                <date from="2019" to="2025">2019-2025</date>
+            </publicationStmt>
+            <sourceDesc><!-- only the handDesc can be filled in at this stage -->
+                <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
+                    <msIdentifier>
+                        <repository>DHARMAbase</repository>
+                        <idno/><!-- don't modify this -->
+                    </msIdentifier>
+                    <msContents><!-- describe the intellectual content of an inscription -->
+                        <summary>The previous identifier was INSEI12_23.<!-- //// NOT MANDATORY  ////--></summary> <!-- offers the possibility to give a summary of the inscription's content -->
+                    </msContents>
+                    <physDesc>
+                        <handDesc>
+                            <p><!-- The script name(s) will be inserted here at a later stage from the metadata spreasheet. At this stage, you can mention here in a free-text paragraph any characteristics of the writing observed more than once in this inscription that seem unusual/uncommon or otherwise noteworthy given the general characteristics of the script in question. See EGD 11.2. --></p>
+                            <!-- If you need to identify individual hands (EGD §7.5/) in addition to one or more paragraphs of general palaeographic description, wrap <summary> around the <p> or <p>s above, and, outside <summary>, create <handNote> elements for each hand as follows:
+						<summary><p><p/></summary>
+						<handNote xml:id="Pallava00001_hand1"></handNote>
+						<handNote xml:id="Pallava00001_hand2"></handNote>
+					 -->
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>The project DHARMA has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement no 809994).</p>
+            </projectDesc>
+            <schemaRef type="guide" key="EGDv01" url="https://halshs.archives-ouvertes.fr/halshs-02888186"/><!-- UPDATE the link once the release is made official -->
+            <listPrefixDef>
+                <prefixDef ident="bib" matchPattern="([a-zA-Z0-9\-\_]+)" replacementPattern="https://www.zotero.org/groups/1633743/erc-dharma/items/tag/$1">
+                    <p>Public URIs with the prefix bib to point to a Zotero Group Library named ERC-DHARMA whose data are open to the public.</p>
+                </prefixDef>
+                <prefixDef ident="part" matchPattern="([a-z]+)" replacementPattern="https://raw.githubusercontent.com/erc-dharma/project-documentation/master/DHARMA_idListMembers_v01.xml#$1">
+                    <p>Internal URIs using the part prefix to point to person elements in the <ref>DHARMA_idListMembers_v01.xml</ref> file.</p>
+                </prefixDef>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change who="part:amwb" when="2024-11-07">Creation of the file</change>
+            <!-- replace this by a line that has you as @who, that has the @date on which you finished the first basic encoding of the file, and that has the following description of what was finished on that date: "Initial encoding of the file." Then add a <change> entry for each significant change to the file. -->
+        </revisionDesc>
+    </teiHeader>
+    <text xml:space="preserve">
+      <body>
+         <div type="edition" xml:lang="san-Latn"><!-- update the @xml:lang value, see EGD §7.2-->
+            <!--edition encoded as per EGD §§2−7-->
+             <pb n="1"/>
+             
+              <p>
+                  <lb 
+n="1"/><lb 
+n="2"/><lb 
+n="3"/><lb 
+n="4"/><lb 
+n="5"/><lb 
+n="6"/><lb 
+n="7"/><lb 
+n="8"/><lb 
+n="9"/><lb 
+n="10"/><lb 
+n="11"/><lb 
+n="12"/><lb 
+n="13"/><lb 
+n="14"/><lb 
+n="15"/><lb 
+n="16"/><lb 
+n="17"/><lb 
+n="18"/><lb 
+n="19"/><lb 
+n="20"/>
+                  <pb n="2"/><lb 
+n="21"/><lb 
+n="22"/><lb 
+n="23"/><lb 
+n="24"/><lb 
+n="25"/>ity uktaṁ ca bhagavatā vyāsena</p>
+             <lg met="anuṣṭubh" n="1"><!-- best_0023 -->      
+            <l n="a">bahubhir vvasudhā bhu<unclear>ktā</unclear></l>
+            <l n="b">rā<lb 
+n="26" break="no"/><unclear>jabhiḥ</unclear> sagarādibhiḥ</l>
+            <l n="c">yasya yasya yadā bhūmis</l>
+            <l n="d">tasya tasya tadā phalaM<g type="ddanda">.</g></l>
+                       </lg>
+             <lg met="indravajrā" n="2"><!-- variation best_0043 --> 
+                       <l n="a">yānīha dattāni  purā narendrai<lb 
+n="27"/><unclear>r</unclear></l>
+                       <l n="b"><unclear>ddā</unclear>nāni dharmmārtha-yaśas-karāṇi</l>
+                       <l n="c">nirmmālya-vānta-pratimāni tāni</l>
+                       <l n="d">ko nāma s<choice><sic>o</sic><corr>ā</corr></choice>dhuḥ punar ādadīta<g type="ddanda">.</g></l>
+                   </lg>
+             <lg met="anuṣṭubh"><!-- best_0150 -->
+                        <l n="a">vi<lb 
+n="28" break="no"/><unclear>ndhyāṭavīṣv a</unclear>-toyāsu</l> 
+                        <l n="b">śuṣka-koṭara-vāsinaḥ</l>
+                        <l n="c">kr̥ṣṇāhayo hi jāyante</l> 
+                        <l n="d"><choice><sic>gu</sic><corr>bhū</corr></choice>mi-dāya<supplied reason="omitted">ṁ</supplied> haranti ye<g type="ddanda">.</g></l>
+                    </lg>
+             <lg met="anuṣṭubh"><!-- best_0132_06 -->
+                        <l n="a"><unclear>sva-da</unclear><lb 
+n="29"/><unclear>ttāṁ</unclear> para-dattāṁ vā</l>
+                        <l n="b">yo hareta vasundharām<g type="ddanda">.</g></l>
+                        <l n="c">t<choice><sic>ai</sic><corr>e</corr></choice>na jātā janetā ca</l>
+                        <l n="d">narake <unclear>pā</unclear>titā dhruvam<g type="ddanda">.</g></l>
+                    </lg>
+             <lg met="śālinī"><!-- best_0117 with inversion ab/cd + interesting feature : the name rama is replaced by the name of the donor -->                    
+                     <l n="a">sarvvā<lb 
+n="30" break="no"/>n etā<choice><orig>ṁ</orig><reg>n</reg></choice> bhāvinaḥ pārtthivendrā<supplied reason="omitted">n</supplied></l>
+                      <l n="b">bhūyo bhūyo yācate bhartṛIvaḍḍhaḥ</l>
+                      <l n="c">sāmānyo 'yaṁ dharmma-setu<lb 
+n="31" break="no"/>r nr̥pāṇāṁ</l>
+                    <l n="d">sve sve kāle pālanīyo bhavadbhi<supplied reason="omitted">ḥ</supplied><g type="ddanda">.</g></l>
+                    
+                    </lg>
+               <lg met="anuṣṭubh"><!-- best_0123 -->
+                   <l n="a">saṣṭir vvarṣa–sahasrāṇi</l>
+                   <l n="b">svargge modati bhūmi<lb 
+n="32"/>daḥ</l>
+                   <l n="c">Ācchettā cānumantā ca</l>
+                   <l n="d">tāny eva narake vaseT<g type="ddanda">.</g></l>
+               </lg>
+             <p>likhitaṃ Etan mayā vālabhya-bha<unclear>ṭṭa-kakke</unclear><lb 
+n="33" break="no"/><unclear>ṇa</unclear> bhaṭṭa-vatsuva-sūnunā Ūnākṣaram adhiākṣaraṁ vā sarvvam atra pramāṇam iti yad <unclear>upa</unclear><lb 
+n="34" break="no"/>ri likhita<unclear>ṁ</unclear> śrīman-nāgāvaloka-prava<supplied reason="omitted">r</supplied>ddhamāna-vijaya-rājye śrī-bhṛgu-kacchāvasthit<choice><sic>e</sic><corr>a</corr></choice>-bha<lb 
+n="35" break="no"/>ṭṭa-llalluva-dūtakaḥ<g type="ddanda">.</g> yatrāṅkato 'pi suviśuddha-saṁvatsara-śatāṣṭake trayoda<lb 
+n="36" break="no"/><unclear>śā</unclear>dhike <num value="800">800</num> <num value="10">10</num> <num value="3">3</num>
+
+                  </p>
+         </div>
+         <div type="apparatus">
+           <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->
+               <listApp><!-- one <app> for each apparatus entry -->
+                  <app loc="line"><!-- update the value of @loc.-->
+                     <lem><!-- fill in a lemma here --></lem>
+                     <rdg source="bib:Konow1913-1914_01"><!-- update the @source value, fill in variant reading here --></rdg>
+                  </app>
+               </listApp>
+         </div>
+         <div type="translation">
+ 	<!--translation encoded as per EGD §9.2 -->
+         </div>
+         <div type="commentary">
+            <!--commentary encoded as per section §9.3 -->
+             <p>Broach district, Bombay. Two plates: 20 lines on the first one, 16 on the second. Alphabet closely related to that in use in the Valabhi inscriptions. Grant belongs to a hitherto unknown branch of the Chāhamānas, who must have resided in Broach.  </p>
+         </div>
+        <div type="bibliography">
+	<!--bibliography encoded as per section §9.4 -->
+           <p><!-- formulate epigraphic lemma here, using the items of primary bibliography --></p>
+        	<listBibl type="primary">
+				<bibl n="K"><ptr target="bib:Konow1913-1914_01"/></bibl><!-- one <bibl/> per item of primary bibliography. Every entry mentionned in apparatus  should hava a @n to declare its sigla -->
+			</listBibl>
+           <listBibl type="secondary">
+              <bibl/><!-- one <bibl/> per item of secondary bibliography -->
+           </listBibl>
+        </div>
+      </body>
+  </text>
+</TEI>
