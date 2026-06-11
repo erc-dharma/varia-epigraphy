@@ -95,7 +95,7 @@
           
                  <lb 
 n="59"/><!-- Kannada text ends at the end of this line --> <lb 
-n="60"/><ab><g type="spiral">.</g></ab><!-- The editor mention a symbol looking like a śaṅkha -->
+n="60"/><ab><g ref="sym:spiral">.</g></ab><!-- The editor mention a symbol looking like a śaṅkha -->
                   <lg met="anuṣṭubh" n="1"><!-- best_0023 -->     
             <l n="a">bahubhir vvasudhā bhuktā</l>
             <l n="b">rājabhis sagarādibhiḥ<g ref="sym:bar" type="punctuation">.</g></l>

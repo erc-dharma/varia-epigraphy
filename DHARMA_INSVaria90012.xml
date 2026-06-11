@@ -94,7 +94,7 @@
              <pb n="1v"/>
               
                   <lb 
-n="59"/><ab><g ref="sym:doubleBar" type="punctuation">.</g><g type="spiral"></g><g ref="sym:doubleBar" type="punctuation">.</g></ab>
+n="59"/><ab><g ref="sym:doubleBar" type="punctuation">.</g><g ref="sym:spiral">.</g><g ref="sym:doubleBar" type="punctuation">.</g></ab>
               <lg met="śālinī"><!-- best_0117 -->
                     <l n="a">sāmānyo 'yaṁ dharmma-se<lb 
 n="60" break="no"/>tur nr̥pāṇāṁ</l>
@@ -109,7 +109,7 @@ n="61"/>vā</l>
                         <l n="c">ṣaṣṭi-varṣa-sahasrāṇi</l>
                         <l n="d">viṣṭhāyāṁ jāyate kr̥miḥ<g ref="sym:doubleBar" type="punctuation">.</g></l>
                     </lg>
-             <ab><g type="spiral">.</g><!-- Here the editor mentions a śaṅkha symbol; after this symbol the text returns to kannada and mentions the name of the minsiter who declares the decree --></ab><lb 
+             <ab><g ref="sym:spiral">.</g><!-- Here the editor mentions a śaṅkha symbol; after this symbol the text returns to kannada and mentions the name of the minsiter who declares the decree --></ab><lb 
 n="62"/>
 
          </div>
