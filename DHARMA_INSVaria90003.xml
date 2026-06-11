@@ -97,75 +97,75 @@
               </p>
                 <lg met="upajāti" n="1"><!-- best_st002 -->
                     <l n="a">Āditya-candrāv anilo 'nalaś ca</l> 
-                    <l n="b">dyaur bhūmir āpo hṛdayaṁ yamaś ca <g type="danda">.</g></l>
+                    <l n="b">dyaur bhūmir āpo hṛdayaṁ yamaś ca <g ref="sym:bar" type="punctuation">.</g></l>
                     <l n="c">ahaś ca rātriś ca ubhe ca sandhye</l> 
-                    <l n="d">dharmasya jānāti narasya vṛttaṁ <g type="ddanda">.</g></l>
+                    <l n="d">dharmasya jānāti narasya vṛttaṁ <g ref="sym:doubleBar" type="punctuation">.</g></l>
                 </lg>
                 <lg met="anuṣṭubh" n="2"><!-- best_st0053 -->
                     <l n="a">ekaiva bhaginī loke</l> 
-                    <l n="b">sarveṣām eva bhūbhujāṁ <g type="danda">.</g></l>
+                    <l n="b">sarveṣām eva bhūbhujāṁ <g ref="sym:bar" type="punctuation">.</g></l>
                     <l n="c">na bhojyā na kara-grāhyā</l> 
-                    <l n="d">vipra-dattā vasundharā <g type="ddanda">.</g></l>
+                    <l n="d">vipra-dattā vasundharā <g ref="sym:doubleBar" type="punctuation">.</g></l>
                 </lg>
                 <lg met="anuṣṭubh" n="3"><!-- best_st0128 -->
                     <l n="a">sva-dattād dviguṇaṁ puṇyaṁ</l> 
-                    <l n="b">para-dattānupālanaṁ<g type="danda">.</g></l>
+                    <l n="b">para-dattānupālanaṁ<g ref="sym:bar" type="punctuation">.</g></l>
                     <l n="c">para-dattāpahāreṇa</l> 
-                    <l n="d">sva-dattaṁ niṣphalaṁ bhaveT<g type="ddanda">.</g></l>
+                    <l n="d">sva-dattaṁ niṣphalaṁ bhaveT<g ref="sym:doubleBar" type="punctuation">.</g></l>
                 </lg>
                 <lg met="anuṣṭubh" n="4"><!-- best_st0004 -->
                     <l n="a">Ādityā vasavo rudrāḥ</l> 
-                    <l n="b">brahmā somo hutāśanaḥ<g type="danda">.</g></l>
+                    <l n="b">brahmā somo hutāśanaḥ<g ref="sym:bar" type="punctuation">.</g></l>
                     <l n="c">nārāyaṇaś ca bhagavān</l> 
-                    <l n="d">abhinandanti bhūmipaṁ<g type="ddanda">.</g></l>
+                    <l n="d">abhinandanti bhūmipaṁ<g ref="sym:doubleBar" type="punctuation">.</g></l>
                 </lg>
                 <lg met="anuṣṭubh" n="5">
                     <l n="a">Indraḥ pṛicchati caṇḍālīṁ</l> 
-                    <l n="b">kiṁ idaṁ pacyate tvayā <g type="danda">.</g></l>
+                    <l n="b">kiṁ idaṁ pacyate tvayā <g ref="sym:bar" type="punctuation">.</g></l>
                     <l n="c">śva-māṁsaṁ surayā siktaṁ</l> 
-                    <l n="d">kapālena citāgninā<g type="ddanda">.</g></l>
+                    <l n="d">kapālena citāgninā<g ref="sym:doubleBar" type="punctuation">.</g></l>
                 </lg>
                 <lg met="anuṣṭubh" n="6">
                     <l n="a">deva-brāhmaṇa-vittāni</l> 
-                    <l n="b">balād apaharanti cet<g type="danda">.</g></l>
+                    <l n="b">balād apaharanti cet<g ref="sym:bar" type="punctuation">.</g></l>
                     <l n="c">teṣāṁ pāda-rajo-bhītyā</l> 
-                    <l n="d">carmaṇā pihitaṁ mayā<g type="ddanda">.</g></l>
+                    <l n="d">carmaṇā pihitaṁ mayā<g ref="sym:doubleBar" type="punctuation">.</g></l>
                 </lg>
                 <lg met="anuṣṭubh" n="7"><!-- best_st0098 -->
                     <l n="a">na viṣaṁ viṣam ity āhuḥ</l> 
-                    <l n="b">brahma-svaṁ viṣam ucyate <g type="danda">.</g></l>
+                    <l n="b">brahma-svaṁ viṣam ucyate <g ref="sym:bar" type="punctuation">.</g></l>
                     <l n="c">viṣam ekākinaṁ hanti</l> 
-                    <l n="d">brahma-svaṁ putra-pautrakaṁ <g type="ddanda">.</g></l>
+                    <l n="d">brahma-svaṁ putra-pautrakaṁ <g ref="sym:doubleBar" type="punctuation">.</g></l>
                 </lg>
                 <lg met="anuṣṭubh" n="8"><!-- variation of st0040 -->
                     <l n="a">dāna-pālanayor madhye</l> 
-                    <l n="b">dānāc chreyo'nupālanaṁ <g type="danda">.</g></l>
+                    <l n="b">dānāc chreyo'nupālanaṁ <g ref="sym:bar" type="punctuation">.</g></l>
                     <l n="c">dānāt svargam avāpnoti</l> 
-                    <l n="d">pālanād acyutaṁ padaṁ <g type="ddanda">.</g></l>
+                    <l n="d">pālanād acyutaṁ padaṁ <g ref="sym:doubleBar" type="punctuation">.</g></l>
                 </lg>
                 <lg met="anuṣṭubh" n="9"><!-- best_st0132_00 -->
                     <l n="a">sva-dattāṁ para-dattāṁ vā</l> 
-                    <l n="b">yo hareta vasundharāṁ <g type="danda">.</g></l>
+                    <l n="b">yo hareta vasundharāṁ <g ref="sym:bar" type="punctuation">.</g></l>
                     <l n="c">ṣaṣṭi-varuṣa-sahasrāṇi</l>
-                    <l n="d">viṣṭhāyāṁ jāyate krimiḥ <g type="ddanda">.</g></l>
+                    <l n="d">viṣṭhāyāṁ jāyate krimiḥ <g ref="sym:doubleBar" type="punctuation">.</g></l>
                 </lg>
                 <lg met="anuṣṭubh" n="10">
                     <l n="a">balād dattāṁ balād bhuktāṁ</l> 
-                    <l n="b">bālād yānvāpi lekhitān<g type="danda">.</g></l>
+                    <l n="b">bālād yānvāpi lekhitān<g ref="sym:bar" type="punctuation">.</g></l>
                     <l n="c">pūrvāparakṛitān āryā</l> 
-                    <l n="d">akṛitān manur abravīt<g type="ddanda">.</g></l>
+                    <l n="d">akṛitān manur abravīt<g ref="sym:doubleBar" type="punctuation">.</g></l>
                 </lg>
                 <lg met="anuṣṭubh" n="11">
                     <l n="a">kalau kārtayugaṁ dharmmaṁ </l>
-                    <l n="b">yo naraḥ karttum ichati<g type="danda">.</g></l>
+                    <l n="b">yo naraḥ karttum ichati<g ref="sym:bar" type="punctuation">.</g></l>
                     <l n="c">svāmi-drohīti taṁ matvā</l> 
-                    <l n="d">taṁ naraṁ bādhate kaliḥ<g type="ddanda">.</g></l>
+                    <l n="d">taṁ naraṁ bādhate kaliḥ<g ref="sym:doubleBar" type="punctuation">.</g></l>
                 </lg>
                 <lg met="anuṣṭubh" n="12">
                     <l n="a">rākṣasāḥ kalim āśritya</l> 
-                    <l n="b">jāyante brahma-yoniṣu<g type="danda">.</g></l>
+                    <l n="b">jāyante brahma-yoniṣu<g ref="sym:bar" type="punctuation">.</g></l>
                     <l n="c">brāhmaṇān eva bādhante</l> 
-                    <l n="d">tatrāpi śrotriyān kṛiśān<g type="ddanda">.</g></l>
+                    <l n="d">tatrāpi śrotriyān kṛiśān<g ref="sym:doubleBar" type="punctuation">.</g></l>
                 </lg><!-- end of the inscription -->
                  
          </div>

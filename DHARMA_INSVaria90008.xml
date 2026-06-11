@@ -117,33 +117,33 @@ n="20"/><lb
 n="21"/><lb 
 n="22"/><lb 
 n="23"/>bhavanti cātra puṇya-ślo<lb 
-n="24" break="no"/>kāḥ<g type="ddanda">.</g></p>
+n="24" break="no"/>kāḥ<g ref="sym:doubleBar" type="punctuation">.</g></p>
              <lg met="anuṣṭubh"><!-- best_st0029 -->
                 <l n="a">bhūmiṁ yaḥ pratigr̥hṇāti</l>
-                <l n="b">yaś ca bhūmiṁ prayacchati<g type="danda">.</g></l>
+                <l n="b">yaś ca bhūmiṁ prayacchati<g ref="sym:bar" type="punctuation">.</g></l>
                 <l n="c">Ubhau tau puṇya-karmmāṇau</l>
-                <l n="d">niyataṁ svargga-gāminau<g type="ddanda">.</g></l>
+                <l n="d">niyataṁ svargga-gāminau<g ref="sym:doubleBar" type="punctuation">.</g></l>
                     </lg>
              <lg met="anuṣṭubh"><!-- best_st0119 -->
                         <l n="a">śaṅkhaṁ bhadrāsanaṁ <surplus>ch</surplus>chatraṁ</l>
                         <l n="b">varāśvā va<lb 
-n="25" break="no"/>ra-vāraṇāḥ<g type="danda">.</g></l>
+n="25" break="no"/>ra-vāraṇāḥ<g ref="sym:bar" type="punctuation">.</g></l>
                         <l n="c">bhūmi-dānasya cihnāṇi</l>
-                        <l n="d">phalaṁ etat purandara<g type="ddanda">.</g></l>
+                        <l n="d">phalaṁ etat purandara<g ref="sym:doubleBar" type="punctuation">.</g></l>
                     </lg>
              <lg met="śālinī"><!-- best_st0117 -->
                     <l n="a">sarvvān etān bhāvinaḥ pārthivendrān</l>
-                    <l n="b">bhūyo bhūyo yācate rāmabhadraḥ<g type="danda">.</g></l>
+                    <l n="b">bhūyo bhūyo yācate rāmabhadraḥ<g ref="sym:bar" type="punctuation">.</g></l>
                     <l n="c">sām<supplied reason="omitted">ā</supplied>nyo 'yaṁ dharmma<lb 
 n="26" break="no"/>-setur nr̥pāṇāṁ</l>
-                    <l n="d">kāle kāle pālanīyo bhavadbhiḥ<g type="ddanda">.</g></l>                   
+                    <l n="d">kāle kāle pālanīyo bhavadbhiḥ<g ref="sym:doubleBar" type="punctuation">.</g></l>                   
                     </lg>
               <lg met="anuṣṭubh">    <!-- best_st0023 -->  
             <l n="a"><choice><orig>v</orig><reg>b</reg></choice>ahubhir vvasudhā bhuktā</l>
-            <l n="b">rājabhiḥ sagarādibhiḥ<g type="danda">.</g></l>
+            <l n="b">rājabhiḥ sagarādibhiḥ<g ref="sym:bar" type="punctuation">.</g></l>
             <l n="c">yasya yasya yadā bhūmis</l>
             <l n="d">tasya tasya ta<lb 
-n="27" break="no"/>dā phalam<g type="ddanda">.</g></l>
+n="27" break="no"/>dā phalam<g ref="sym:doubleBar" type="punctuation">.</g></l>
                        </lg>
               <lg met="anuṣṭubh"><!-- vest_st0132_00 -->
                         <l n="a">sva-dattāṁ para-dattāṁ vā</l>

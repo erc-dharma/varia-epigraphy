@@ -100,33 +100,33 @@ n="55"/>Om</p>
                     <l n="b">kāḷe kāḷe pāḷanīyo bhavadbhiḥ</l>
                     <l n="c">sarvvān etā<choice><sic>ṁ</sic><corr>n</corr></choice> bhāginaḥ pārtthiveṁdrā<supplied reason="omitted">n</supplied></l>
                     <l n="d">bhū<lb 
-n="56" break="no"/>yo bhūyo yācate rāmabhadraḥ<g type="ddanda">.</g></l>
+n="56" break="no"/>yo bhūyo yācate rāmabhadraḥ<g ref="sym:doubleBar" type="punctuation">.</g></l>
             </lg>
              <lg met="anuṣṭubh" n="2"> <!-- best_0023 -->     
             <l n="a">bahubhir vasudhā bhuktā</l>
             <l n="b">rājabhiḥ sagarādibhiḥ</l>
             <l n="c">yasya yasya yadā bhūmi<supplied reason="omitted">s</supplied></l>
             <l n="d">tasya<lb 
-n="57"/> tasya tadā<surplus>ṁ</surplus> phalaṁ<g type="ddanda">.</g></l>
+n="57"/> tasya tadā<surplus>ṁ</surplus> phalaṁ<g ref="sym:doubleBar" type="punctuation">.</g></l>
                        </lg>
               <lg met="anuṣṭubh" n="3"><!-- best_st0132_03 -->
                         <l n="a">sva-datt<supplied reason="omitted">ā</supplied>ṁ para-datt<supplied reason="omitted">ā</supplied>ṁ vā</l>
                         <l n="b">yo hare<choice><sic>ti</sic><corr>ta</corr></choice> vasundharā<supplied reason="omitted">ṁ</supplied></l>
                         <l n="c">ṣaṣṭir vvarṣa-saha<choice><sic>ś</sic><corr>s</corr></choice>rāṇi</l>
-                        <l n="d">viṣṭhāyā<supplied reason="omitted">ṁ</supplied> jāya<supplied reason="omitted">te</supplied> kṛmi<supplied reason="omitted">ḥ</supplied><g type="ddanda">.</g></l>
+                        <l n="d">viṣṭhāyā<supplied reason="omitted">ṁ</supplied> jāya<supplied reason="omitted">te</supplied> kṛmi<supplied reason="omitted">ḥ</supplied><g ref="sym:doubleBar" type="punctuation">.</g></l>
                     </lg>
              <lg met="anuṣṭubh" n="4"><!-- best_0046 -->
                         <l n="a">deva-dvija-ga<lb 
 n="58" break="no"/>tāṁ bhūmiṁ</l>
                         <l n="b">pūrva-bhuktāṁ haret<choice><sic>u</sic><corr>a</corr></choice> yaḥ</l>
                         <l n="c">pra<choice><sic>n</sic><corr>ṇ</corr></choice>aṣṭam api kālena</l> 
-                        <l n="d">tam āhu<supplied reason="omitted">r</supplied> brahma-ghātakaṁ<g type="ddanda">.</g></l>
+                        <l n="d">tam āhu<supplied reason="omitted">r</supplied> brahma-ghātakaṁ<g ref="sym:doubleBar" type="punctuation">.</g></l>
                     </lg>
               <lg met="anuṣṭubh" n="5"> <!-- best_0098 -->
                        <l n="a">na vi<choice><sic>ś</sic><corr>ṣ</corr></choice>aṁ vi<choice><sic>ś</sic><corr>ṣ</corr></choice>am ity āhu<supplied reason="omitted">r</supplied></l>
                        <l n="b">deva-sva<supplied reason="omitted">ṁ</supplied> <lb 
-n="59"/>vi<choice><sic>ś</sic><corr>ṣ</corr></choice>am ucyate<g type="danda">.</g></l>
-                       <l n="c">vi<choice><sic>ś</sic><corr>ṣ</corr></choice>am ekākina<supplied reason="omitted">ṁ</supplied> haṁti<g type="danda">.</g></l>
+n="59"/>vi<choice><sic>ś</sic><corr>ṣ</corr></choice>am ucyate<g ref="sym:bar" type="punctuation">.</g></l>
+                       <l n="c">vi<choice><sic>ś</sic><corr>ṣ</corr></choice>am ekākina<supplied reason="omitted">ṁ</supplied> haṁti<g ref="sym:bar" type="punctuation">.</g></l>
                        <l n="d">deva-svaṁ putra-pautrikaṁ</l>
                    </lg>
              <p>Om</p>

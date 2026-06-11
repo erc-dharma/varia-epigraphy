@@ -104,7 +104,7 @@ n="6"/><lg met="anuṣṭubh">
                         <l n="b">yo rājā bhaviṣyati<g ref="sym:bar" type="punctuation">.</g></l>
                         <l n="c"><lb 
 n="7"/>tasyāhaṁ kara-<choice><sic>lalela</sic><corr>lagnaḥ</corr></choice> </l>
-                        <l n="d">mayā dattaṁ na cālayeT<g ref="sym:doubleBar" type="punctuation">.</g></l>
+                        <l n="d">mayā dattaṁ na cālayeT<g type="ddanda">.</g></l>
                     </lg>
                   <lg met="anuṣṭubh"><!-- best_0023 -->
             <l n="a"><choice><sic>pa</sic><corr>ba</corr></choice>hu<lb 
@@ -112,7 +112,7 @@ n="8" break="no"/>bhiḥ vasudhā bhuktā</l>
             <l n="b">rāj<choice><sic>i</sic><corr>a</corr></choice>bhiḥ sagarādibhiḥ</l>
             <l n="c">yasya yasya yadā bhū<lb 
 n="9" break="no"/>mis</l>
-            <l n="d">tasya tasya tadā phalam<g ref="sym:doubleBar" type="punctuation">.</g></l>
+            <l n="d">tasya tasya tadā phalam<g type="ddanda">.</g></l>
                        </lg> 
              <ab>maṁgalaṁ mahāśrīḥ</ab>
          </div>

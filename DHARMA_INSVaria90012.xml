@@ -94,20 +94,20 @@
              <pb n="1v"/>
               
                   <lb 
-n="59"/><ab><g type="ddanda">.</g><g type="spiral"></g><g type="ddanda">.</g></ab>
+n="59"/><ab><g ref="sym:doubleBar" type="punctuation">.</g><g type="spiral"></g><g ref="sym:doubleBar" type="punctuation">.</g></ab>
               <lg met="śālinī"><!-- best_0117 -->
                     <l n="a">sāmānyo 'yaṁ dharmma-se<lb 
 n="60" break="no"/>tur nr̥pāṇāṁ</l>
                     <l n="b">kāle kāle pālanīyo bhavadbhiḥ</l>
                     <l n="c">sarvvān etān bhāvinaḥ pārtthivendrān</l>
-                    <l n="d">bhūyo bhūyo yācate rāmacaṁdraḥ<g type="ddanda">.</g></l>
+                    <l n="d">bhūyo bhūyo yācate rāmacaṁdraḥ<g ref="sym:doubleBar" type="punctuation">.</g></l>
                     </lg>
              <lg met="anuṣṭubh"><!-- best_0132_03 -->                      
                         <l n="a">sva-dattāṁ para-dattāṁ<lb 
 n="61"/>vā</l>
                         <l n="b">yo hareta vasundharāṁ</l>
                         <l n="c">ṣaṣṭi-varṣa-sahasrāṇi</l>
-                        <l n="d">viṣṭhāyāṁ jāyate kr̥miḥ<g type="ddanda">.</g></l>
+                        <l n="d">viṣṭhāyāṁ jāyate kr̥miḥ<g ref="sym:doubleBar" type="punctuation">.</g></l>
                     </lg>
              <ab><g type="spiral">.</g><!-- Here the editor mentions a śaṅkha symbol; after this symbol the text returns to kannada and mentions the name of the minsiter who declares the decree --></ab><lb 
 n="62"/>

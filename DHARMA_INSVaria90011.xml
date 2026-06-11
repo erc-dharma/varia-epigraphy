@@ -98,16 +98,16 @@ n="59"/><!-- Kannada text ends at the end of this line --> <lb
 n="60"/><ab><g type="spiral">.</g></ab><!-- The editor mention a symbol looking like a śaṅkha -->
                   <lg met="anuṣṭubh" n="1"><!-- best_0023 -->     
             <l n="a">bahubhir vvasudhā bhuktā</l>
-            <l n="b">rājabhis sagarādibhiḥ<g type="danda">.</g></l>
+            <l n="b">rājabhis sagarādibhiḥ<g ref="sym:bar" type="punctuation">.</g></l>
             <l n="c">yasya yasya yadā bhūmis</l>
-            <l n="d">tasya tasya tadā phalam<g type="ddanda">.</g></l>
+            <l n="d">tasya tasya tadā phalam<g ref="sym:doubleBar" type="punctuation">.</g></l>
                        </lg>
                   <lg met="anuṣṭubh" n="2"><!-- best_0015 -->
                             <l n="a">Api gaṁgādi-tīrttheṣu</l>
-                            <l n="b">hantur ggām athavā dvijaṁ<g type="danda">.</g></l>
+                            <l n="b">hantur ggām athavā dvijaṁ<g ref="sym:bar" type="punctuation">.</g></l>
                             <l n="c" enjamb="yes">niṣkr̥ti<supplied reason="omitted">s</supplied> syān na deva-sva</l>
                             <l n="d"><lb 
-n="61" break="no"/>-brahma-sva-haraṇe nr̥ṇām<g type="ddanda">.</g></l>
+n="61" break="no"/>-brahma-sva-haraṇe nr̥ṇām<g ref="sym:doubleBar" type="punctuation">.</g></l>
                         </lg><lb 
 n="62"/><lb 
 n="63"/><!-- After the sasnkrit stanzas, the text is again in Kannada; it gives a eulogistic verse describing the donor and then of the poets  -->
