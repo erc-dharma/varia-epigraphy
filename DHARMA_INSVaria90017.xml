@@ -94,82 +94,45 @@
              <pb n="1v"/>
 
               <p>
-                  <lb 
-n="1"/><lb 
-n="2"/><lb 
-n="3"/><lb 
-n="4"/><lb 
-n="5"/><lb 
-n="6"/><lb 
-n="7"/><lb 
-n="8"/><lb 
-n="9"/><lb 
-n="10"/><lb 
-n="11"/><lb 
-n="12"/><lb 
-n="13"/><lb 
-n="14"/><lb 
-n="15"/><lb 
-n="16"/><lb 
-n="17"/><lb 
-n="18"/>
-                  <pb n="2r"/><lb 
-n="19"/><lb 
-n="20"/><lb 
-n="21"/><lb 
-n="22"/><lb 
-n="23"/><lb 
-n="24"/><lb 
-n="25"/><lb 
-n="26"/><lb 
-n="27"/><lb 
-n="28"/><lb 
-n="29"/></p><lg met="anuṣṭubh" n="20"><!-- best_st0119 -->
+                  <lb n="1"/><lb n="2"/><lb n="3"/><lb n="4"/><lb n="5"/><lb n="6"/><lb n="7"/><lb n="8"/><lb n="9"/><lb n="10"/><lb n="11"/><lb n="12"/><lb n="13"/><lb n="14"/><lb n="15"/><lb n="16"/><lb n="17"/><lb n="18"/>
+                  <pb n="2r"/><lb n="19"/><lb n="20"/><lb n="21"/><lb n="22"/><lb n="23"/><lb n="24"/><lb n="25"/><lb n="26"/><lb n="27"/><lb n="28"/><lb n="29"/></p><lg met="anuṣṭubh" n="20"><!-- best_st0119 -->
                         <l n="a">śaṅkhaṁ bhadrāsanaṁ chatraṁ</l>
-                        <l n="b">gajāśvā va<lb 
-n="30" break="no"/><choice><sic>v</sic><corr>r</corr></choice>a-vāha<unclear>na</unclear>M<g ref="sym:bar" type="punctuation">.</g></l>
+                        <l n="b">gajāśvā va<lb n="30" break="no"/><choice><sic>v</sic><corr>r</corr></choice>a-vāha<unclear>na</unclear>M<g ref="sym:bar" type="punctuation">.</g></l>
                         <l n="c">bhūmi-dānasya cihnāṇi</l>
                         <l n="d">phala<supplied reason="omitted">ṁ</supplied> svargam anuttamaṁ<g ref="sym:doubleBar" type="punctuation">.</g></l>
                     </lg>
                   <lg met="anuṣṭubh" n="21"><!-- best_st0023 -->      
             <l n="a"><choice><orig>v</orig><reg>b</reg></choice>a<surplus>ṁ</surplus>hubhir vvasudhā bhuktā</l>
-            <l n="b">rājabhiḥ sagarādi<lb 
-n="31" break="no"/>bhiḥ<g ref="sym:bar" type="punctuation">.</g></l>
+            <l n="b">rājabhiḥ sagarādi<lb n="31" break="no"/>bhiḥ<g ref="sym:bar" type="punctuation">.</g></l>
             <l n="c">yasya yasya yadā bhūmis</l>
             <l n="d">tasya tasya tadā phalaṁ<g ref="sym:doubleBar" type="punctuation">.</g></l>
                        </lg>
                    <lg met="anuṣṭubh" n="23"><!-- best_st0029 --> 
                 <l n="a">bhūmiṁ yaḥ pratigr̥h<choice><orig>n</orig><reg>ṇ</reg></choice>āti</l>
                 <l n="b">yas tu bhūmiṁ prayacchati<g ref="sym:bar" type="punctuation">.</g></l>
-                <l n="c"><lb 
-n="32"/>Ubhau tau puṇya-karmmāṇau</l>
+                <l n="c"><lb n="32"/>Ubhau tau puṇya-karmmāṇau</l>
                 <l n="d">niyatau <unclear>svargga</unclear>-gāminau<g ref="sym:doubleBar" type="punctuation">.</g></l>
                     </lg>
                   <lg met="anuṣṭubh" n="24"><!-- best_st0132 -->
                         <l n="a">sva-dattāṁ para-dattāṁ vā</l>
                         <l n="b">yo <choice><sic>h</sic><corr>s</corr></choice>are<choice><sic>d</sic><corr>ta</corr></choice> vasundharāṁ<g ref="sym:bar" type="punctuation">.</g></l>
-                        <l n="c">sa viṣṭhā<lb 
-n="33"/>yāṁ kr̥mir bhūtvā</l>
+                        <l n="c">sa viṣṭhā<lb n="33"/>yāṁ kr̥mir bhūtvā</l>
                         <l n="d">pitr̥bhiḥ saha majjati<g ref="sym:doubleBar" type="punctuation">.</g></l>
                     </lg>
                   <lg met="anuṣṭubh" n="25"><!-- quoted in note for best_st0081 -->
                       <l n="a">haṁti jātā tu yātāṁś ca</l>
                       <l n="b">bhūmy arthe yo 'nr̥taṁ vadet<g ref="sym:bar" type="punctuation">.</g></l>
-                      <l n="c">sa <choice><orig>v</orig><reg>b</reg></choice>addho <lb 
-n="34"/>vāruṇaiḥ pāśais</l>
+                      <l n="c">sa <choice><orig>v</orig><reg>b</reg></choice>addho <lb n="34"/>vāruṇaiḥ pāśais</l>
                       <l n="d"><unclear>ti</unclear>ryag yonyāṁ tu jāyate<g ref="sym:doubleBar" type="punctuation">.</g></l>
                   </lg>
                   <lg met="anuṣṭubh" n="26"><!-- best_st0052 -->                        
                       <l n="a">dvijāś ca <unclear>nāva</unclear>mantavyās</l>
                         <l n="b">trailokya-miti-hetavaḥ<g ref="sym:bar" type="punctuation">.</g></l>
-                        <l n="c"><lb 
-n="35"/>devavat pūjanīyāś ca</l>
+                        <l n="c"><lb n="35"/>devavat pūjanīyāś ca</l>
                         <l n="d">dāna-mānārcanādibhiḥ<g ref="sym:doubleBar" type="punctuation">.</g></l>
                     </lg><p>
 
-<lb 
-n="36"/><lb 
-n="37"/>
+<lb n="36"/><lb n="37"/>
                   </p>
          </div>
          <div type="apparatus">

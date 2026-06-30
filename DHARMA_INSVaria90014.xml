@@ -93,28 +93,19 @@
             <!--edition encoded as per EGD §§2−7-->
              <pb n="1v"/>
              
-                  <lb 
-n="1"/><lb 
-n="2"/><lb 
-n="3"/><lb 
-n="4"/><lb 
-n="5"/><lg met="anuṣṭubh"><!-- best_0023 -->
+                  <lb n="1"/><lb n="2"/><lb n="3"/><lb n="4"/><lb n="5"/><lg met="anuṣṭubh"><!-- best_0023 -->
             <l n="a"><choice><orig>v</orig><reg>b</reg></choice>ahubhir vasudhā bhuktā</l>
-            <l n="b"><lb 
-n="6"/>rājabhi<supplied reason="omitted">ḥ</supplied> sagarādibhiḥ</l>
+            <l n="b"><lb n="6"/>rājabhi<supplied reason="omitted">ḥ</supplied> sagarādibhiḥ</l>
             <l n="c">yasya yasya yadā bhūmi<supplied reason="omitted">s</supplied></l>
             <l n="d">tasya tasya tadā phalam<g ref="sym:doubleBar" type="punctuation">.</g></l>
                        </lg>
              <lg met="anuṣṭubh"><!-- best_0059 -->
-                        <l n="a">go-ha<lb 
-n="7" break="no"/>tyā <choice><orig>v</orig><reg>b</reg></choice>rahma-hatyā ca</l>
+                        <l n="a">go-ha<lb n="7" break="no"/>tyā <choice><orig>v</orig><reg>b</reg></choice>rahma-hatyā ca</l>
                         <l n="b"><choice><orig>v</orig><reg>b</reg></choice>āla-hatyā tathaiva ca</l>
                         <l n="c">vipra-hatyārṣi-hatyāva</l>
                         <l n="d" enjamb="yes">bhaṁjakaḥ tena lipyate</l>
                     </lg>
-             <p>likhitam idaṁ <lb 
-n="8"/><lb 
-n="9"/></p>
+             <p>likhitam idaṁ <lb n="8"/><lb n="9"/></p>
          </div>
          <div type="apparatus">
            <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->

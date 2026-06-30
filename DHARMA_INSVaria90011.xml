@@ -93,9 +93,7 @@
             <!--edition encoded as per EGD §§2−7-->
              <pb n="1v"/>
           
-                 <lb 
-n="59"/><!-- Kannada text ends at the end of this line --> <lb 
-n="60"/><ab><g ref="sym:spiral">.</g></ab><!-- The editor mention a symbol looking like a śaṅkha -->
+                 <lb n="59"/><!-- Kannada text ends at the end of this line --> <lb n="60"/><ab><g ref="sym:spiral">.</g></ab><!-- The editor mention a symbol looking like a śaṅkha -->
                   <lg met="anuṣṭubh" n="1"><!-- best_0023 -->     
             <l n="a">bahubhir vvasudhā bhuktā</l>
             <l n="b">rājabhis sagarādibhiḥ<g ref="sym:bar" type="punctuation">.</g></l>
@@ -106,11 +104,8 @@ n="60"/><ab><g ref="sym:spiral">.</g></ab><!-- The editor mention a symbol looki
                             <l n="a">Api gaṁgādi-tīrttheṣu</l>
                             <l n="b">hantur ggām athavā dvijaṁ<g ref="sym:bar" type="punctuation">.</g></l>
                             <l n="c" enjamb="yes">niṣkr̥ti<supplied reason="omitted">s</supplied> syān na deva-sva</l>
-                            <l n="d"><lb 
-n="61" break="no"/>-brahma-sva-haraṇe nr̥ṇām<g ref="sym:doubleBar" type="punctuation">.</g></l>
-                        </lg><lb 
-n="62"/><lb 
-n="63"/><!-- After the sasnkrit stanzas, the text is again in Kannada; it gives a eulogistic verse describing the donor and then of the poets  -->
+                            <l n="d"><lb n="61" break="no"/>-brahma-sva-haraṇe nr̥ṇām<g ref="sym:doubleBar" type="punctuation">.</g></l>
+                        </lg><lb n="62"/><lb n="63"/><!-- After the sasnkrit stanzas, the text is again in Kannada; it gives a eulogistic verse describing the donor and then of the poets  -->
          </div>
          <div type="apparatus">
            <!--apparatus encoded as per EGD §9.1, basic elements for apparatus below-->

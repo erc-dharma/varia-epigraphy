@@ -93,25 +93,7 @@
             <!--edition encoded as per EGD §§2−7-->
              <pb n="1v"/>
               <p>
-                  <lb 
-n="1"/><lb 
-n="2"/><lb 
-n="3"/><lb 
-n="4"/><lb 
-n="5"/><lb 
-n="6"/><lb 
-n="7"/><lb 
-n="8"/><lb 
-n="9"/><lb 
-n="10"/><lb 
-n="11"/><lb 
-n="12"/><lb 
-n="13"/><lb 
-n="14"/><lb 
-n="15"/><lb 
-n="16"/><lb 
-n="17"/>atrātha paurāṇikāḥ<lb 
-n="18" break="no"/>ślokāḥ</p>
+                  <lb n="1"/><lb n="2"/><lb n="3"/><lb n="4"/><lb n="5"/><lb n="6"/><lb n="7"/><lb n="8"/><lb n="9"/><lb n="10"/><lb n="11"/><lb n="12"/><lb n="13"/><lb n="14"/><lb n="15"/><lb n="16"/><lb n="17"/>atrātha paurāṇikāḥ<lb n="18" break="no"/>ślokāḥ</p>
              <lg met="anuṣṭubh" n="8"><!-- best_st0029 -->
                 <l n="a">bhūmi<supplied reason="omitted">ṁ</supplied> yaḥ pratigr̥hṇāti</l>
                 <l n="b">yaś ca bhūmiṁ prayacchati</l>
@@ -120,8 +102,7 @@ n="18" break="no"/>ślokāḥ</p>
                     </lg>
               <lg met="anuṣṭubh" n="9"><!-- best_st0164 -->
                         <l n="a">yo 'rccitaṁ pratigr̥hṇāti</l>
-                        <l n="b">dadāty arcci<lb 
-n="19" break="no"/>tam eva vā</l>
+                        <l n="b">dadāty arcci<lb n="19" break="no"/>tam eva vā</l>
                         <l n="c">tāv ubhau gacchataḥ svargaṁ</l>
                         <l n="d">narakaṁ tu viparyaye</l>
               </lg>
@@ -129,8 +110,7 @@ n="19" break="no"/>tam eva vā</l>
             <l n="a">bahubhir vasudhā bhuktā</l>
             <l n="b">rājabhiḥ sagarādibhiḥ</l>
             <l n="c">yasya <choice><sic>satya</sic><corr>yasya</corr></choice> yadā bhū<choice><sic>g</sic><corr>m</corr></choice>is</l>
-            <l n="d">tasya tasya <choice><sic>v</sic><corr>t</corr></choice>adā<lb 
-n="20"/>phalaṁ</l>
+            <l n="d">tasya tasya <choice><sic>v</sic><corr>t</corr></choice>adā<lb n="20"/>phalaṁ</l>
                        </lg>
              <lg met="indravajrā" n="11"> <!-- best_st0043 -->
                        <l n="a">yānīha dattāni purā narendrair</l>
@@ -139,15 +119,13 @@ n="20"/>phalaṁ</l>
                        <l n="d">ko nāma sādhuḥ punar ādadīta</l>
                    </lg>
              <lg met="vasantatilakā" n="12"><!-- best_st0019 -->
-                        <l n="a">Asmat-kula-<choice><sic>para</sic><corr>krama</corr></choice><lb 
-n="21" break="no"/>m udāram udāharadbhir</l>
+                        <l n="a">Asmat-kula-<choice><sic>para</sic><corr>krama</corr></choice><lb n="21" break="no"/>m udāram udāharadbhir</l>
                         <l n="b">anyaiś ca dānam idam <choice><sic><g ref="sym:bar" type="punctuation">.</g>ṇumā</sic><corr>abhyanumo</corr></choice>danīyam</l>
                         <l n="c">lakṣmyās taḍit-salila-budbuda-ca<choice><orig>ṁ</orig><reg>ñ</reg></choice>calāyā </l>
                         <l n="d">dānaṁ phalaṁ para-yaśaḥ-paripālana<choice><orig>ṁ</orig><reg>ñ</reg></choice> ca <surplus>ja</surplus></l>
                     </lg>
              <lg met="anuṣṭubh" n="13"><!-- best_st0119 -->
-                        <l n="a"><choice><orig>ṣaṁ</orig><reg>śaṅ</reg></choice>kha<supplied reason="omitted">ṁ</supplied> bhadrāsanaṁ<lb 
-n="22"/> chatra<supplied reason="omitted">ṁ</supplied></l>
+                        <l n="a"><choice><orig>ṣaṁ</orig><reg>śaṅ</reg></choice>kha<supplied reason="omitted">ṁ</supplied> bhadrāsanaṁ<lb n="22"/> chatra<supplied reason="omitted">ṁ</supplied></l>
                         <l n="b">varāśvā vara-vār<choice><sic>e</sic><corr>a</corr></choice>ṇāḥ</l>
                         <l n="c">bhūmi-dānasya cihnāni</l>
                         <l n="d"><choice><sic>masaṁ</sic><corr>phalaṁ</corr></choice> <supplied reason="lost">svargaḥ</supplied> pura<choice><orig>ṁ</orig><reg>n</reg></choice>dara</l>
@@ -156,11 +134,9 @@ n="22"/> chatra<supplied reason="omitted">ṁ</supplied></l>
                      <l n="a">sva-dattāṁ para-dattāṁ vā</l>
                         <l n="b">yo <choice><sic>dare</sic><corr>hara</corr></choice>ti <choice><sic>vamaṁ</sic><corr>vasun</corr></choice>dharāṁ</l>
                         <l n="c">sa viṣṭhāyāṁ kr̥mir <choice><sic>dūlā</sic><corr>bhūtvā</corr></choice></l>
-                        <l n="d">pitr̥bhiḥ sa<lb 
-n="23" break="no"/>ha majjati</l>
+                        <l n="d">pitr̥bhiḥ sa<lb n="23" break="no"/>ha majjati</l>
                     </lg><p>
-                  <pb n="1r"/><lb 
-n="24"/>
+                  <pb n="1r"/><lb n="24"/>
     </p>
          </div>
          <div type="apparatus">
