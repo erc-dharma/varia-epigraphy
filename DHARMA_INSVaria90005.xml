@@ -38,10 +38,7 @@
             </publicationStmt>
             <sourceDesc><!-- only the handDesc can be filled in at this stage -->
                 <msDesc><!-- //// NB: the msIdentifier had to be added for validation purposes ///. It will be edited later with the metadata spreadsheet -->
-                    <msIdentifier>
-                        <repository>DHARMAbase</repository>
-                        <idno/><!-- don't modify this -->
-                    </msIdentifier>
+                    <msIdentifier><repository>as per external metadata</repository></msIdentifier>
                     <msContents><!-- describe the intellectual content of an inscription -->
                         <summary>The previous identifier of this file was INSEI2_15. This set records the grant of lands by the king Bhillama II (Yādava dynasty) to twenty-one Brahmins. Gift made at the occasion of a solar eclipse at the holy bathing-place of the confluence of the Aruṇa (and Godāvarī) at Nāsik. </summary> <!-- offers the possibility to give a summary of the inscription's content -->
                     </msContents>
